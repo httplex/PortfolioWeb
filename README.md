@@ -16,11 +16,11 @@
 
   ### Portfólio
   Projetos feitos durante a minha jornada no curso Do Zero Ao Primeiro Site ofertado pela +prati.
-    * Projeto Estante de Livros 
-    * Projeto Locadora 2000
-    * Projeto Mário
-    * Projeto Cartão Virtual
+    1. Projeto Estante de Livros 
+    2. Projeto Locadora 2000
+    3. Projeto Mário
+    4. Projeto Cartão Virtual
       
   Projetos desenvolvidos dentro do período em que cursei o Técnico em Informática na Escola Técnica de Brasília - ETB.
-    * Projeto Ariana Grande
-    * Projeto Papelaria
+    5. Projeto Ariana Grande
+    6. Projeto Papelaria
