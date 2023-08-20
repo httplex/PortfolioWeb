@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+header{
+    align-items: center;
+    padding: -40px;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    width: 400px;
+    height: 50px;
+    margin-left: 30%;
+}
+
+section{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin-top: 30px;
+    text-align:justify;
+    margin-left: 30%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form{
+    font-family: 'Cormorant Garamond', serif;
+    
+}
+
+form div{
+    flex-direction: column;
+}
+
+form input textarea{
+    flex-direction: column;
+}
+
+    
+form input[type=submit]{
+    background-color: lightgrey;
+    font-family: 'Cormorant Garamond', serif;
+    cursor:pointer;
+    font-size: 20px;
+    margin-top: 30px;
+    border-color: darkgrey;
+    margin-left: 20%;
+    font-weight: bold;
+}
+
+
+
+

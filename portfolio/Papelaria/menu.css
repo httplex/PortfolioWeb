@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+#menu-h ul{
+    list-style-type: none;
+    padding: 0;
+    background-color: black;
+    width: 100%;
+    max-width: 700px;
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+#menu-h ul li{
+    display: inline-block;
+    
+}
+
+#menu-h ul li a{
+    color: yellow;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    transition: background .6s;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+#menu-h ul li a:hover{
+    background-color: grey;
+}
