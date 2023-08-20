@@ -1,6 +1,6 @@
 # PortfolioWeb
 
-## Neste projeto encontra-se:
+## Neste projeto encontra-se as seguinte seções:
   ### Início
   Uma introdução acompanhada da área em que atuo.
 
