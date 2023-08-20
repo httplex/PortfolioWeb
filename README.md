@@ -11,7 +11,7 @@
   Parte em que exponho os meus trabalhos já feitos.
 
   ### Contato
-  Local onde se encontra as formas de entrar em contato comigo. 
+  Local onde se encontram as formas de entrar em contato comigo. 
   Caso você se interesse pelo meu trabalho e queira me contratar não se acanhe, entre em contato. :D
 
   ### Portfólio
